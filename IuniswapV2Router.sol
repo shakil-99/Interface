@@ -1,3 +1,4 @@
+pragma solidity ^0.8.9;
 interface IUniswapV2Router {
     function addLiquidity(
         address tokenA,
